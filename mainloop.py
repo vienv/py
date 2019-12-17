@@ -1,5 +1,3 @@
-import os
-
 import socket
 from select import select
 
